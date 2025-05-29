@@ -33,3 +33,7 @@ Implementation of two metaheuristic approaches to solve the NP-hard Maximum Cliq
    ```bash
    git clone https://github.com/yourusername/AI-Clique-Problem.git
    cd Maximal-Clique-Problem
+2.Install dependencies:
+
+```bash
+    pip install -r requirements.txt
